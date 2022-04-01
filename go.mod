@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/ravichandranvigneshwaran/wowchemy-widget-projectDisplay
 
 go 1.15
